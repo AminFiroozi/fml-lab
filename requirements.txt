@@ -1,0 +1,6 @@
+pandas>=2.0.0
+numpy>=1.23.0
+yfinance>=0.2.36
+plotly>=5.20.0
+tradermade
+python-dotenv>=1.0.0  # optional, if you're using os.environ for API keys
